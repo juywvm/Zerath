@@ -4,4 +4,4 @@ getconnections , hookfunction , getnamecallmethod , checkcaller , getrawmetatabl
 
 This ui cannot be detected by any game, protected so strong to run universal. thats why you need to support hookfunction, etc.
 
-https://images.guns.lol/tjdWh8yemO8ebh84.gif
+![alt text](https://github.com/juywvm/Zerath/blob/[branch]/image.jpg?raw=true)
