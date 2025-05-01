@@ -5,9 +5,11 @@ getconnections , hookfunction , getnamecallmethod , checkcaller , getrawmetatabl
 This ui cannot be detected by any game, protected so strong to run universal. thats why you need to support hookfunction, etc.
 
 Execute to load UI:
+
 `loadstring(game:HttpGet(('https://raw.githubusercontent.com/juywvm/Zerath/refs/heads/main/fapg/hm.lua'),true))()`
 
 Execute to unload UI:
+
 `loadstring(game:HttpGet(('https://raw.githubusercontent.com/juywvm/Zerath/refs/heads/main/fapg/unload.lua'),true))()`
 
 
@@ -17,5 +19,5 @@ Execute to unload UI:
 
 
 
-
+Join Zerath today.
 https://discord.gg/YgTEa9VF2C
