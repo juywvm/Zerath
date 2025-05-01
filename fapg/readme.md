@@ -5,6 +5,8 @@ You need to support:
 
 This ui cannot be detected by any game, protected so strong to run universal. thats why you need to support hookfunction, etc.
 
+---
+
 Execute to __load__ UI:
 
 `loadstring(game:HttpGet(('https://raw.githubusercontent.com/juywvm/Zerath/refs/heads/main/fapg/hm.lua'),true))()`
