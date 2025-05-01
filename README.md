@@ -1,7 +1,7 @@
 
 # ⚔️ Zerath
 
-> **“Zerath — Power. Precision. Domination.” **  
+> “Power. Precision. Domination.”
 > Precision-built tools for those who walk unseen.
 
 ---
