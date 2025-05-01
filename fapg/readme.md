@@ -8,7 +8,7 @@ This ui cannot be detected by any game, protected so strong to run universal. th
 Execute to __load__ UI:
 
 `loadstring(game:HttpGet(('https://raw.githubusercontent.com/juywvm/Zerath/refs/heads/main/fapg/hm.lua'),true))()`
-
+---
 Execute to __unload__ UI:
 
 `loadstring(game:HttpGet(('https://raw.githubusercontent.com/juywvm/Zerath/refs/heads/main/fapg/unload.lua'),true))()`
