@@ -46,19 +46,13 @@ Stay safe and have fun!
 
 
 Supported Games:
-- 
-- 
-- 
-- 
-- 
-- 
-- 
--
--
-- 
-- 
-- 
-- 
+- Murder Mystery 2 https://www.roblox.com/games/142823291/Murder-Mystery-2
+- Adopt Me https://www.roblox.com/games/920587237/Adopt-Me
+- PS99 https://www.roblox.com/games/8737899170/Pet-Simulator-99 
+- Pets Go https://www.roblox.com/games/18901165922/PETS-GO 
+- Bubble Gum Simulator Infinity https://www.roblox.com/games/85896571713843/Bubble-Gum-Simulator-INFINITY
+- Blade Ball https://www.roblox.com/games/13772394625/Blade-Ball
+
 
 
 
