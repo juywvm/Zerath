@@ -1,0 +1,271 @@
+--[[
+                                                                                                                    
+                                                                                                                    
+ZZZZZZZZZZZZZZZZZZZ                                                                tttt         hhhhhhh             
+Z:::::::::::::::::Z                                                             ttt:::t         h:::::h             
+Z:::::::::::::::::Z                                                             t:::::t         h:::::h             
+Z:::ZZZZZZZZ:::::Z                                                              t:::::t         h:::::h             
+ZZZZZ     Z:::::Z      eeeeeeeeeeee    rrrrr   rrrrrrrrr   aaaaaaaaaaaaa  ttttttt:::::ttttttt    h::::h hhhhh       
+        Z:::::Z      ee::::::::::::ee  r::::rrr:::::::::r  a::::::::::::a t:::::::::::::::::t    h::::hh:::::hhh    
+       Z:::::Z      e::::::eeeee:::::eer:::::::::::::::::r aaaaaaaaa:::::at:::::::::::::::::t    h::::::::::::::hh  
+      Z:::::Z      e::::::e     e:::::err::::::rrrrr::::::r         a::::atttttt:::::::tttttt    h:::::::hhh::::::h 
+     Z:::::Z       e:::::::eeeee::::::e r:::::r     r:::::r  aaaaaaa:::::a      t:::::t          h::::::h   h::::::h
+    Z:::::Z        e:::::::::::::::::e  r:::::r     rrrrrrraa::::::::::::a      t:::::t          h:::::h     h:::::h
+   Z:::::Z         e::::::eeeeeeeeeee   r:::::r           a::::aaaa::::::a      t:::::t          h:::::h     h:::::h
+ZZZ:::::Z     ZZZZZe:::::::e            r:::::r          a::::a    a:::::a      t:::::t    tttttth:::::h     h:::::h
+Z::::::ZZZZZZZZ:::Ze::::::::e           r:::::r          a::::a    a:::::a      t::::::tttt:::::th:::::h     h:::::h
+Z:::::::::::::::::Z e::::::::eeeeeeee   r:::::r          a:::::aaaa::::::a      tt::::::::::::::th:::::h     h:::::h
+Z:::::::::::::::::Z  ee:::::::::::::e   r:::::r           a::::::::::aa:::a       tt:::::::::::tth:::::h     h:::::h
+ZZZZZZZZZZZZZZZZZZZ    eeeeeeeeeeeeee   rrrrrrr            aaaaaaaaaa  aaaa         ttttttttttt  hhhhhhh     hhhhhhh
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                
+Always use loadstring. Do not execute raw code!
+
+For information, visit: https://github.com/juywvm/Zerath/tree/main/Anti-Scam-Universal 
+
+if you want us to add game, please contact us from our discord server.
+Zerath Discord Server: https://discord.gg/YgTEa9VF2C
+
+
+
+Scam scripts disguised as “autofarms” or “OP scripts” have been spreading like wildfire lately. People are losing their inventories, and it's getting out of hand.
+So as the Zerath Team, we’ve declared war against these scammer sons of b*tches.
+
+We developed this Anti-Scam Script to protect your hard-earned items. When executed, it breaks all trade-related functions if you're in a supported game — which means scammers can’t steal a damn thing from you.
+So go ahead, test out new scripts without worrying — we’ve got your back.
+
+Want to support the cause? Join our Discord Server: https://discord.gg/YgTEa9VF2C
+Let’s ruin the day of every low-life scammer out there.
+
+Stay safe and have fun!
+
+
+Supported Games:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-
+-
+- 
+- 
+- 
+- 
+
+
+
+
+Ｕｎｉｖｅｒｓａｌ   Ａｎｔｉ－Ｓｃａｍ Ｓｃｒｉｐｔ
+
+ｄｅｖｅｌｏｐｅｄ ｂｙ   Ｚｅｒａｔｈ Ｔｅａｍ
+
+
+
+OBFUSCATED WITH MOONSEC V6
+PRIVATE USE ONLY.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]
