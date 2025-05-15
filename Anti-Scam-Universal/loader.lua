@@ -1,3 +1,5 @@
+---closing your roblox for your safety if your executer dont support these functions
+if not hookmetamethod or not getnamecallmethod or not newcclosure then game:Shutdown() end
 --[[
                                                                                                                     
                                                                                                                     
