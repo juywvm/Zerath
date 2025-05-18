@@ -32,7 +32,7 @@ We know how these parasites work — and we're staying 10 steps ahead.
 
 But don't worry. To ensure transparency and trust, **the full unobfuscated source has been personally sent to the site owners** of trusted script communities:
 
-- **scriptblox.com → Thundermods** (sent source, waiting for verification)
+- **scriptblox.com → Thundermods** (sent source, already verified.)
 - **robloxscripts.com → Sirmeme** (sent source, waiting for verification)
 
 These platforms have verified our work, and you can trust what they approve.
